@@ -1,0 +1,22 @@
+{
+  "file": "RUID869fd4158d784e4896631f3a67c6ce59.jpg",
+  "kind": "restaurant-thermal",
+  "rotation": 180,
+  "merchant": "Loaded Restaurant",
+  "gstin": "32FJQPR0134G1Z8",
+  "invoice_no": "31689",
+  "date": "2026-09-16",
+  "time": "21:17",
+  "total": 250.00,
+  "subtotal": 238.10,
+  "discount": null,
+  "round_off": null,
+  "tax_total": 11.90,
+  "payment_hint": null,
+  "item_count": 1,
+  "items_confident": true,
+  "items": [{"description": "Loaded Fries Large With Icetea", "qty": 1, "rate": 250, "amount": 250.00}],
+  "taxes": [{"rate": 5.00, "taxable": 238.10, "cgst": 5.95, "sgst": 5.95}],
+  "checks": {"subtotal_plus_cgst_plus_sgst": 250.00},
+  "notes": "Photographed UPSIDE DOWN (180). Plain OCR returns gibberish; OSD must flip it. Two-digit year ('16/09/26')."
+}

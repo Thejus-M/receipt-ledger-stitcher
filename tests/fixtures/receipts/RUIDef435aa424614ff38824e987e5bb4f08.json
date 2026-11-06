@@ -1,0 +1,38 @@
+{
+  "file": "RUIDef435aa424614ff38824e987e5bb4f08.jpg",
+  "kind": "cart-screenshot",
+  "is_receipt": true,
+  "merchant": "Kaffeehaus",
+  "venue": "UST CAMPUS TRIVANDRUM",
+  "gstin": null,
+  "invoice_no": null,
+  "date": null,
+  "time": null,
+  "exif_date": "2026-09-04",
+  "total": 150.0,
+  "subtotal": 142.86,
+  "discount": null,
+  "round_off": null,
+  "tax_total": 7.14,
+  "payment_hint": "UPI",
+  "item_count": 1,
+  "items_confident": true,
+  "items": [
+    {
+      "description": "Chicken Biriyani + Lime Combo (Full Biriyani + Lime Juice)",
+      "qty": 1,
+      "amount": 150.0
+    }
+  ],
+  "taxes": [
+    {
+      "taxable": 142.86,
+      "tax": 7.14
+    }
+  ],
+  "checks": {
+    "subtotal_plus_tax": 150.0
+  },
+  "notes": "Photographed at the checkout screen on purpose: the receipt issued after payment drops the item detail, so the cart is where the items live. Treated as a bill. No date on screen; EXIF only. The amount paid can differ from the cart if a tip or a coupon is added at the last step.",
+  "captured_before_payment": true
+}

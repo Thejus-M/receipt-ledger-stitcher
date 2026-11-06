@@ -1,0 +1,21 @@
+{
+  "file": "RUIDbc7ae81ba2d14d378c6dc8dd38783dbe.jpg",
+  "kind": "restaurant-thermal",
+  "merchant": "SIGN LABAN",
+  "gstin": "32AFEFS1472H1Z5",
+  "invoice_no": "KZKTM/26-27/33177",
+  "date": "2026-11-04",
+  "time": "19:32",
+  "total": 380.00,
+  "subtotal": 361.90,
+  "discount": null,
+  "round_off": null,
+  "tax_total": 18.10,
+  "payment_hint": "UPI",
+  "item_count": 1,
+  "items_confident": true,
+  "items": [{"description": "Nutella + Pistachio Salankatia", "qty": 1, "rate": 380, "amount": 380.00}],
+  "taxes": [{"rate": 5.00, "taxable": 361.90, "cgst": 9.05, "sgst": 9.05}],
+  "checks": {"subtotal_plus_cgst_plus_sgst": 380.00},
+  "notes": "Two-digit year ('04/11/26') and a token-number header above the bill proper. Says 'Paid via UPI'."
+}

@@ -1,0 +1,42 @@
+{
+  "file": "RUID761aa2da6800471988ac33b2fde06bb9.jpg",
+  "kind": "cart-screenshot",
+  "is_receipt": true,
+  "merchant": "Kottayam Kitchen",
+  "booked_via": "Swiggy",
+  "venue": "Sans, Kulathoor, Thiruvananthapuram",
+  "gstin": null,
+  "invoice_no": null,
+  "date": null,
+  "time": null,
+  "exif_date": "2026-09-02",
+  "total": 139.0,
+  "subtotal": 139.0,
+  "discount": 25.0,
+  "delivery_fee": 0.0,
+  "round_off": null,
+  "tax_total": 24.93,
+  "payment_hint": "BHIM",
+  "item_count": 1,
+  "items_confident": true,
+  "items": [
+    {
+      "description": "Chicken Biryani [1 Piece]",
+      "qty": 1,
+      "mrp": 179.0,
+      "rate": 139.0,
+      "amount": 139.0
+    }
+  ],
+  "taxes": [
+    {
+      "label": "GST & Other Charges",
+      "tax": 24.93
+    }
+  ],
+  "checks": {
+    "item_total_minus_discount_plus_charges": 138.93
+  },
+  "notes": "Photographed at the checkout screen on purpose: the receipt issued after payment drops the item detail, so the cart is where the items live. Treated as a bill. 6616 px tall, mostly menu upsell - the totals block is in the last sixth. Its arithmetic lands at 138.93 against a 139 'To Pay', so the referee must tolerate the app's own rounding.",
+  "captured_before_payment": true
+}

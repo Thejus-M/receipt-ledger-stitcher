@@ -1,0 +1,29 @@
+{
+  "file": "RUID64b3254f70d44cbc84abc47937ad09a9.jpg",
+  "kind": "retail-gst",
+  "merchant": "KUNNIL MARGINFREE HYPERMARKET",
+  "gstin": "32AASFM7220N1ZW",
+  "invoice_no": "GH27-341544",
+  "date": "2026-11-05",
+  "time": "17:13",
+  "total": 456.00,
+  "subtotal": 460.82,
+  "discount": 4.61,
+  "round_off": -0.21,
+  "tax_total": 17.03,
+  "payment_hint": "GPAY",
+  "item_count": 4,
+  "items_confident": true,
+  "items": [
+    {"description": "TOBLERONE F&N/DARK WHITE 100G", "hsn": "18059090", "mrp": 250.00, "qty": 1.000, "rate": 228.72, "gst_rate": 5.00, "amount": 240.16},
+    {"description": "ARUM CHEMBU SMALL (AR) COLOCASI", "hsn": "07095100", "mrp": 75.00, "qty": 1.448, "rate": 71.35, "gst_rate": 0.00, "amount": 103.31},
+    {"description": "ANJUS PEANUT PEPPER/MASALA 130", "hsn": "21069099", "mrp": 75.00, "qty": 1.000, "rate": 68.90, "gst_rate": 5.00, "amount": 72.35},
+    {"description": "CRUNCHY SNACKS FRYUMS 80 gm", "hsn": "21069099", "mrp": 50.00, "qty": 1.000, "rate": 42.86, "gst_rate": 5.00, "amount": 45.00}
+  ],
+  "taxes": [
+    {"rate": 5.00, "taxable": 340.47, "tax": 17.03, "cgst": 8.52, "sgst": 8.52},
+    {"rate": 0.00, "taxable": 103.31, "tax": 0.00, "cgst": 0.00, "sgst": 0.00}
+  ],
+  "checks": {"items_sum": 460.82, "subtotal_minus_discount_plus_round": 456.00},
+  "notes": "Prints GPAY 456.00 AND 'Tender Cash 456.00' for the same purchase - tender wording is not proof of cash."
+}

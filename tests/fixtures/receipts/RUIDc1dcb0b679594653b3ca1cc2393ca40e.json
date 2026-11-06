@@ -1,0 +1,24 @@
+{
+  "file": "RUIDc1dcb0b679594653b3ca1cc2393ca40e.jpg",
+  "kind": "retail-gst",
+  "merchant": "KUNNIL MARGINFREE HYPERMARKET",
+  "gstin": "32AASFM7220N1ZW",
+  "invoice_no": "GH27-297795",
+  "date": "2026-10-07",
+  "time": "19:26",
+  "total": 120.00,
+  "subtotal": 121.49,
+  "discount": 1.21,
+  "round_off": -0.28,
+  "tax_total": 0.00,
+  "payment_hint": "ICICI",
+  "item_count": 2,
+  "items_confident": true,
+  "items": [
+    {"description": "FRUIT SALAD 0025 72586", "hsn": "07095100", "mrp": 60.00, "qty": 1.000, "rate": 59.99, "gst_rate": 0.00, "amount": 59.99},
+    {"description": "EGG WHITE (E) (104)", "hsn": "04072100", "mrp": 6.50, "qty": 10.000, "rate": 6.15, "gst_rate": 0.00, "amount": 61.50}
+  ],
+  "taxes": [{"rate": 0.00, "taxable": 121.49, "tax": 0.00, "cgst": 0.00, "sgst": 0.00}],
+  "checks": {"items_sum": 121.49, "subtotal_minus_discount_plus_round": 120.00},
+  "notes": "Paid by ICICI card, yet also prints 'Tender Cash 120.00'. The ICICI credit account in the ledger has no transactions fetched, so this bill has nothing to match yet."
+}

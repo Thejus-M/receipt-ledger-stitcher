@@ -1,0 +1,6 @@
+opencv-python-headless>=4.10
+pillow>=10.4
+numpy>=2.0
+rapidfuzz>=3.9
+easyocr>=1.7.2
+rapidocr-onnxruntime>=1.4

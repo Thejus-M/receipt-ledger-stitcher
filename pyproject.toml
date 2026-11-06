@@ -1,0 +1,10 @@
+[project]
+name = "receipt-ledger-stitcher"
+version = "0.1.0"
+description = "Stitches photographed shop bills into the Transactions ledger: reads each bill locally and ties it to the bank row that paid for it."
+requires-python = ">=3.12"
+# Dependencies live in requirements.txt, installed with
+#   uv pip install -r requirements.txt --torch-backend=cpu
+# easyocr pulls torch, and this machine has Intel graphics: the default
+# resolution drags in ~2.5 GB of CUDA wheels it can never use.
+dependencies = []

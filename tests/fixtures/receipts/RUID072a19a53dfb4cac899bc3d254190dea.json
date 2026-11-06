@@ -1,0 +1,21 @@
+{
+  "file": "RUID072a19a53dfb4cac899bc3d254190dea.jpg",
+  "kind": "retail-gst",
+  "merchant": "CAKE WORLD",
+  "gstin": "32BORPS1261R1Z7",
+  "invoice_no": "IN-14540",
+  "date": "2026-09-15",
+  "time": "20:39",
+  "total": 149.00,
+  "subtotal": 141.90,
+  "discount": 0.00,
+  "round_off": null,
+  "tax_total": 7.10,
+  "payment_hint": "CARD",
+  "item_count": 1,
+  "items_confident": true,
+  "items": [{"description": "MILK BROWNIE BOX", "qty": 1.000, "mrp": 149.00, "rate": 149.00, "gst_rate": 5.0, "amount": 149.00}],
+  "taxes": [{"rate": 5.00, "taxable": 141.90, "cgst": 3.55, "sgst": 3.55, "cess": 0.00}],
+  "checks": {"taxable_plus_cgst_plus_sgst": 149.00},
+  "notes": "Prints 'To: CASH' in the header and 'Card : 149.00' in the payment block - the header field is a customer label, not a tender. Time is printed as 8:39:11 PM (12-hour)."
+}

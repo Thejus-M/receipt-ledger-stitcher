@@ -1,0 +1,29 @@
+{
+  "file": "RUID0621c6cbb79d448eadbc32e4817f3f7c.jpg",
+  "kind": "restaurant-invoice",
+  "rotation": 270,
+  "merchant": "MANDI MANZIL",
+  "gstin": null,
+  "invoice_no": null,
+  "date": "2026-11-04",
+  "time": null,
+  "total": 1592.00,
+  "subtotal": 1516.20,
+  "discount": null,
+  "round_off": 0.00,
+  "tax_total": 75.80,
+  "payment_hint": "CASH",
+  "item_count": 6,
+  "items_confident": false,
+  "items": [
+    {"description": "HONEY CHILLI", "qty": 1, "rate": 475.2, "amount": 475.2},
+    {"description": "ALFAHAM MANDI HALF", "qty": 1, "rate": 248.6, "amount": 248.6},
+    {"description": "BEEF MANDI QUARTER", "qty": 1, "rate": 284.3, "amount": 284.3},
+    {"description": "ALFAHAM MANDI QUARTER", "qty": 1, "rate": 224.8, "amount": 224.8},
+    {"description": "PERI PERI ALFAHAM", "qty": 1, "rate": 235.2, "amount": 235.2},
+    {"description": "SPRITE/COLA", "qty": 1, "rate": 47.6, "amount": 47.6}
+  ],
+  "taxes": [{"rate": 5.00, "taxable": 1516.20, "cgst": 37.90, "sgst": 37.90}],
+  "checks": {"taxable_plus_cgst_plus_sgst": 1592.00},
+  "notes": "Photographed sideways: needs OSD rotation (270) or OCR returns nothing. Item rates are best-effort off a rotated thermal print, hence items_confident=false - the bench scores its totals, not its item amounts. Says 'Bill To: CASH', which proves nothing (see the Kunnil bills)."
+}

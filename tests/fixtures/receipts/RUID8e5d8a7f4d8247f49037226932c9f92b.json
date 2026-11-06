@@ -1,0 +1,26 @@
+{
+  "file": "RUID8e5d8a7f4d8247f49037226932c9f92b.jpg",
+  "kind": "retail-liquor",
+  "merchant": "K.S.B.C. 6020-CHINNAKANAL",
+  "gstin": "32AAACK9431G1ZS",
+  "invoice_no": "6020031049846",
+  "date": "2026-08-30",
+  "time": "16:58",
+  "total": 2550.00,
+  "subtotal": 715.10,
+  "discount": null,
+  "round_off": 0.00,
+  "tax_total": 1794.90,
+  "cess": 40.00,
+  "payment_hint": "CARD",
+  "item_count": 3,
+  "items_confident": true,
+  "items": [
+    {"description": "NORMANDY'S DADDY WILSON PURE BLENDED RUM", "ml": 1000, "qty": 2, "mrp": 840, "amount": 1680},
+    {"description": "NORMANDY'S DADDY WILSON PURE BLENDED RUM", "ml": 500, "qty": 1, "mrp": 440, "amount": 440},
+    {"description": "MGM ORANGE KIZ VODKA", "ml": 500, "qty": 1, "mrp": 430, "amount": 430}
+  ],
+  "taxes": [{"rate": 251.00, "taxable": 715.10, "tax": 1794.90, "cess": 40.00}],
+  "checks": {"items_sum": 2550.00, "net_plus_tax_plus_cess": 2550.00},
+  "notes": "The right edge is cut off by the BEVCO strip, so 715.1_, 1794.9_ and 40.0_ are truncated in the photo. The identity net+tax+cess=2550.00 recovers them exactly - a direct test of the referee. Matches ledger row 2026-08-30 2550.00 UPI/P2M/...KSBC FL01 6020 CHINNA (already tracked)."
+}

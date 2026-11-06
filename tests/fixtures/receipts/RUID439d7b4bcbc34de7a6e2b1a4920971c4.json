@@ -1,0 +1,22 @@
+{
+  "file": "RUID439d7b4bcbc34de7a6e2b1a4920971c4.jpg",
+  "kind": "ticket-screenshot",
+  "merchant": "KSRTC (Kerala)",
+  "booked_via": "redBus",
+  "gstin": null,
+  "invoice_no": "TV9V22588241",
+  "date": "2026-08-31",
+  "time": "20:00",
+  "total": 529.00,
+  "subtotal": null,
+  "discount": null,
+  "round_off": null,
+  "tax_total": null,
+  "payment_hint": null,
+  "item_count": 1,
+  "items_confident": true,
+  "items": [{"description": "Munnar -> Thiruvananthapuram (Kazhakootam), Non AC Seater (2+2), 1 Seat, seat 33", "qty": 1, "amount": 529.00}],
+  "taxes": [],
+  "checks": {},
+  "notes": "A redBus app screenshot, not a GST bill: no tax block, no item table, and the year is never printed ('Mon, 31 Aug') - EXIF gives 2026. Must degrade to merchant + date + total rather than count as a parse failure. The statement will say redBus, not KSRTC, so this is the merchant-matching test."
+}
